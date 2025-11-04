@@ -1,0 +1,5 @@
+{
+  "name": "Product Spec Generator",
+  "description": "A React web application that takes a product description and generates detailed product specifications in bullet points using the Gemini API.",
+  "requestFramePermissions": []
+}
